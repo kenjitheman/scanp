@@ -11,7 +11,12 @@
 ## project structure:
 
 ```
-
+├── cmd
+│   └── main.go
+├── go.mod
+├── README.md
+└── scanner
+    └── scanner.go
 ```
 
 ## installation
