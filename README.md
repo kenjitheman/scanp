@@ -1,4 +1,4 @@
-<h2 align="center">network scanner | golang simple library</h2>
+<h2 align="center">network scanner using golang</h2>
 
 ###
 
@@ -11,12 +11,9 @@
 ## project structure:
 
 ```
-├── cmd
-│   └── main.go
 ├── go.mod
-├── README.md
-└── scanner
-    └── scanner.go
+├── main.go
+└── README.md
 ```
 
 ## installation
@@ -25,15 +22,6 @@
 
 ```
 go get github.com/kenjitheman/ntwrkscan
-```
-
-## usage
-
-- use go run:
-
-```
-cd cmd
-go run main.go
 ```
 
 ## contributing
