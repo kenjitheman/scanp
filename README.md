@@ -1,4 +1,4 @@
-<h2 align="center">network scanner using golang</h2>
+<h2 align="center">network scanner | golang simple library</h2>
 
 ###
 
@@ -24,13 +24,7 @@
 - use go get:
 
 ```
-go get github.com/kenjitheman/network_scanner
-```
-
-- or use git clone:
-
-```
-git clone https://github.com/kenjitheman/network_scanner
+go get github.com/kenjitheman/ntwrkscan
 ```
 
 ## usage
