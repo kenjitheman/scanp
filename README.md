@@ -1,4 +1,4 @@
-<h2 align="center">network scanner using golang</h2>
+<h2 align="center">port scanner using golang</h2>
 
 ###
 
@@ -11,9 +11,7 @@
 ## project structure:
 
 ```
-├── go.mod
-├── main.go
-└── README.md
+
 ```
 
 ## installation
@@ -21,7 +19,7 @@
 - use go get:
 
 ```
-go get github.com/kenjitheman/ntwrkscan
+go get github.com/kenjitheman/portscan
 ```
 
 ## contributing
