@@ -11,7 +11,10 @@
 ## project structure:
 
 ```
-
+├── go.mod
+├── LICENSE
+├── portscan.go
+└── README.md
 ```
 
 ## installation
