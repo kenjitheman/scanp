@@ -1,4 +1,4 @@
-package main
+package portscan
 
 import (
 	"fmt"
@@ -17,10 +17,7 @@ func scanPort(targetIP string, port int, timeout time.Duration) bool {
 	return true
 }
 
-func main() {
-	targetIP := "192.168.1.1" // your target IP
-	timeout := 2 * time.Second
-
+func StartPortScan(targetIP string, timeout time.Duration) {
 	for port := 1; port <= 65535; port++ {
 		if scanPort(targetIP, port, timeout) {
 			fmt.Printf("[SUCCESS] port %d is open\n", port)
