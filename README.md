@@ -10,7 +10,7 @@
 
 ## project structure:
 
-```
+```go
 ├── go.mod
 ├── LICENSE
 ├── portscan.go
@@ -19,7 +19,7 @@
 
 ## installation
 
-```
+```shell
 go get github.com/kenjitheman/portscan
 ```
 
