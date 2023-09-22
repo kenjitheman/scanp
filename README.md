@@ -1,4 +1,4 @@
-<h2 align="center">port scanner using golang</h2>
+## port scanner in golang
 
 ###
 
