@@ -1,4 +1,4 @@
-## port scanner in golang
+## Port scanner in golang
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-## project structure:
+## Project structure:
 
 ```go
 ├── go.mod
@@ -17,17 +17,17 @@
 └── README.md
 ```
 
-## installation
+## Installation
 
 ```shell
 go get github.com/kenjitheman/portscan
 ```
 
-## contributing
+## Contributing
 
-- pull requests are welcome, for major changes, please open an issue first to
-  discuss what you would like to change
+- Pull requests are welcome, for major changes, please open an issue first to
+  discuss what you would like to change.
 
-## license
+## License
 
 - [MIT](https://choosealicense.com/licenses/mit/)
