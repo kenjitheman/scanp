@@ -1,3 +1,3 @@
-module github.com/kenjitheman/portscan
+module github.com/btwkenji/portscan
 
 go 1.20
